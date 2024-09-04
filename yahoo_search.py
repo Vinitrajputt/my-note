@@ -1,3 +1,5 @@
+# this file contains the code to search the internet using Yahoo search engine, and return the search results.
+
 import re
 import urllib.parse
 import requests
